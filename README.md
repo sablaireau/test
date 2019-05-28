@@ -3,7 +3,7 @@
 [f1](./f1/f1.md)
 
 
-## [basic](./f1/f1.md#duck)
+## [duck](./f1/f1.md#duck)
 # header
 
 
