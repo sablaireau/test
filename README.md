@@ -7,7 +7,7 @@
 
 sd
 
-## [open duck luna](.f1/f1.md#Duck's-luna)
+## [open duck luna](.f1/f1.md#Duck's luna)
 
 # header
 Vai alla sezione nel file
