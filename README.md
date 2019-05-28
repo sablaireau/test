@@ -1,18 +1,19 @@
 # test
 
-[Open file f1](./f1/f1.md)
+[Open file f1](/f1/f1.md)
 
 
-## [open duck section](./f1/f1.md#duck)
+## [open duck section](/f1/f1.md#duck)
 
 sd
 
-## [open duck luna](.f1/f1.md#ducks-luna-hope)
+## [open duck luna](f1/f1.md#ducks-luna-hope)
 
 # header
 Vai alla sezione nel file
 
-
+https://github.com/sablaireau/test/blob/master/f1/f1.md#ducks-luna-hope
+https://github.com/sablaireau/test/blob/master/f1/f1.md#ducks-luna-hope
 
 
 # d1
